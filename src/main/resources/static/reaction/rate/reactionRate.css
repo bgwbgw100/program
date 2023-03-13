@@ -1,0 +1,36 @@
+ #box{
+        width: 100%;
+        height: 500px;
+        background-color: aquamarine;
+        font-family: 'Roboto Condensed', sans-serif;
+    }
+    #box_p{
+        font-size: 100px;
+        text-align: center;
+        margin: 0px;
+        padding-top: 170px;
+        color : gray
+    }
+    #avg{
+        font-size: 40px;
+        font-family: 'Roboto Condensed', sans-serif;
+        margin: 10px;
+    }
+    #resultList{
+        font-size: 40px;
+        font-family: 'Roboto Condensed', sans-serif;
+        margin: 10px;
+    }
+    #best{
+        font-size: 40px;
+        font-family: 'Roboto Condensed', sans-serif;
+        margin: 10px;
+    }
+    #clearBox{
+        width: 100%;
+    }
+    #reset{
+        margin-left: 50%;
+        margin-right: 50%;
+        width: 100px;
+    }
